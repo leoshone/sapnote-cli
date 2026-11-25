@@ -1,6 +1,6 @@
 {
   "name": "sapnote-cli",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "private": true,
   "description": "Portable CLI for SAP Notes/KBA - thin shell over sap-note-search-mcp internals (auth/api reused 0-modified)",
   "bin": {
