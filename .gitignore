@@ -1,0 +1,12 @@
+# credentials / session — never commit
+.env
+.env.*
+token-cache.json
+*.token
+
+# deps
+node_modules/
+
+# logs & temp
+*.log
+_tmp/

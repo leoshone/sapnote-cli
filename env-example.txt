@@ -1,0 +1,5 @@
+# Copy this file to .env (same folder) and fill in your SAP S-User.
+# .env is gitignored - never commit real credentials.
+# Quote values containing # or spaces:  SAP_PASSWORD="My#Pass"
+SAP_USERNAME=you@company.com
+SAP_PASSWORD=yourpassword
