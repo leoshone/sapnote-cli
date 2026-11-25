@@ -74,6 +74,6 @@ for ~12 h — delete that file to force re-login. Override the path with
 
 ## Moving this folder
 
-Self-contained ("绿色版"): `cli.js` + `node_modules` travel together — move the
+Self-contained(portable): `cli.js` + `node_modules` travel together — move the
 whole folder anywhere; nothing is installed system-wide. Only the cookie cache
 stays in `%USERPROFILE%\.sapnote-cli\`.
